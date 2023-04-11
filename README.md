@@ -25,3 +25,6 @@ This website was updated to include accessibility code such as <alt>, semantic H
 
  ## Live site
   https://sjhudek.github.io/module1-challenge/
+
+ ## Starter code (since modified)
+ https://github.com/coding-boot-camp/urban-octo-telegram
