@@ -1,24 +1,12 @@
 # HTML CSS Refactoring
 
-## As a marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+## Description
+The website for the SEO company Horiseon needs to be updated to include semantic HTML, which will make the website meet ADA requirements, increase Search Engine Optimization, and easier to understand by screen readers used by the blind and vision-impaired. 
 
 ## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-
-## Description
-This website was updated to include accessibility code such as `<alt>`, semantic HTML, and a descriptive `<title>`.
+All HTML elements updated with semantic HTML tags including headings, paragraphs, and lists.
+The semantic HTML markup identifies the purpose and structure of the content. 
+Images have an "alt" tag that describes the purpose of the image.
 
 ## Image of website
 ![screenshot--2023 04 11-13_43_44](https://user-images.githubusercontent.com/16738959/231272402-7909d429-9df2-4855-91eb-e74631ef15c4.png)
