@@ -1,4 +1,4 @@
-# module1-challenge
+# HTML CSS Refactoring
 
 ## As a marketing agency
 I WANT a codebase that follows accessibility standards
