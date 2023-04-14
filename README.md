@@ -1,4 +1,4 @@
-# HTML CSS Refactoring
+# Horiseon Website HTML CSS Refactoring
 
 ## Description
 The website for the SEO company Horiseon needs to be updated to include semantic HTML, which will make the website meet ADA requirements, increase Search Engine Optimization, and easier to understand by screen readers used by the blind and vision-impaired. 
